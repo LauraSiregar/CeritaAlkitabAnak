@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg" >
+ 
+<ImageView
+    android:src="@drawable/exit"
+    android:id="@+id/exit"
+    android:layout_width="40dp"
+    android:layout_height="40dp"
+    android:layout_alignParentRight="true"
+    android:layout_marginRight="10dp"
+    android:layout_marginTop="10dp"/>
+
+<TextView
+      android:id="@+id/pilih"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_centerVertical="true"
+      android:gravity="center|center_horizontal"
+      android:text="PILIHAN CERITA"
+      android:textSize="22sp"
+      android:textColor="#FFFF00"
+      android:layout_marginTop="10dp"
+      android:layout_below="@id/exit"
+      android:textStyle="bold" />
+
+<ScrollView 
+   android:id="@+id/kerangkascroll"
+   android:layout_width="fill_parent"
+   android:layout_height="fill_parent"
+   android:layout_below="@id/pilih"
+   android:layout_marginBottom="10dp">
+    
+    <RelativeLayout 
+        android:id="@+id/bagan"
+        android:layout_width="270dp"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_horizontal"
+        android:background="#CCCCCC">
+        
+    <TextView
+      android:id="@+id/judulsatu"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="1. Daniel di Gua Singa"
+      android:textSize="20sp"
+      android:textColor="#000000"
+      android:layout_marginTop="10dp"
+      android:layout_marginLeft="10dp"/>
+
+    <ImageView
+        android:id="@+id/satu"
+        android:layout_width="250dp"
+        android:layout_height="230dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/judulsatu"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/daniel" />
+    
+    <TextView
+      android:id="@+id/juduldua"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="2. Esau dan Yakub"
+      android:textSize="20sp"
+      android:textColor="#000000"
+      android:layout_marginTop="20dp"
+      android:layout_below="@id/satu"
+      android:layout_marginLeft="10dp"/>
+
+    <ImageView
+        android:id="@+id/dua"
+        android:layout_width="250dp"
+        android:layout_height="230dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/juduldua"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/esauyakub" />
+
+    <TextView
+      android:id="@+id/judultiga"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="3. Kain dan Habel"
+      android:textSize="20sp"
+      android:textColor="#000000"
+      android:layout_marginTop="20dp"
+      android:layout_below="@id/dua"
+      android:layout_marginLeft="10dp"/>
+
+    <ImageView
+        android:id="@+id/tiga"
+        android:layout_width="250dp"
+        android:layout_height="230dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/judultiga"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/kainhabel" />
+ 
+    <TextView
+      android:id="@+id/judulempat"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="4. Musa Membelah Laut"
+      android:textSize="20sp"
+      android:textColor="#000000"
+      android:layout_marginTop="20dp"
+      android:layout_below="@id/tiga"
+      android:layout_marginLeft="10dp"/>
+
+    <ImageView
+        android:id="@+id/empat"
+        android:layout_width="250dp"
+        android:layout_height="230dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/judulempat"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/musa" />
+    
+    <TextView
+      android:id="@+id/judullima"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="5. Kisah Penciptaan"
+      android:textSize="20sp"
+      android:textColor="#000000"
+      android:layout_marginTop="20dp"
+      android:layout_below="@id/empat"
+      android:layout_marginLeft="10dp"/>
+
+    <ImageView
+        android:id="@+id/lima"
+        android:layout_width="250dp"
+        android:layout_height="230dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/judullima"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/penciptaan" />
+    
+    <TextView
+      android:id="@+id/judulenam"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="6. 10 Perintah Tuhan"
+      android:textSize="20sp"
+      android:textColor="#000000"
+      android:layout_marginTop="20dp"
+      android:layout_below="@id/lima"
+      android:layout_marginLeft="10dp"/>
+
+    <ImageView
+        android:id="@+id/enam"
+        android:layout_width="250dp"
+        android:layout_height="230dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/judulenam"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/perintahtuhan" />
+    
+    <TextView
+      android:id="@+id/judultujuh"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="7. Tembok Yerikho"
+      android:textSize="20sp"
+      android:textColor="#000000"
+      android:layout_marginTop="20dp"
+      android:layout_below="@id/enam"
+      android:layout_marginLeft="10dp"/>
+
+    <ImageView
+        android:id="@+id/tujuh"
+        android:layout_width="250dp"
+        android:layout_height="230dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/judultujuh"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/tembokyerikho" />
+    
+     <TextView
+      android:id="@+id/juduldelapan"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="8. Tuhan Yesus Mati Bagiku"
+      android:textSize="20sp"
+      android:textColor="#000000"
+      android:layout_marginTop="20dp"
+      android:layout_below="@id/tujuh"
+      android:layout_marginLeft="10dp"/>
+
+    <ImageView
+        android:id="@+id/delapan"
+        android:layout_width="250dp"
+        android:layout_height="230dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/juduldelapan"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/yesusdisalib" />
+    
+    <TextView
+      android:id="@+id/judulsembilan"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="9. Yunus di perut ikan"
+      android:textSize="20sp"
+      android:textColor="#000000"
+      android:layout_marginTop="20dp"
+      android:layout_below="@id/delapan"
+      android:layout_marginLeft="10dp"/>
+
+    <ImageView
+        android:id="@+id/sembilan"
+        android:layout_width="250dp"
+        android:layout_height="230dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/judulsembilan"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/yunus" />
+    
+    <TextView
+      android:id="@+id/judulsepuluh"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="10. Zakheus"
+      android:textSize="20sp"
+      android:textColor="#000000"
+      android:layout_marginTop="20dp"
+      android:layout_below="@id/sembilan"
+      android:layout_marginLeft="10dp"/>
+
+    <ImageView
+        android:id="@+id/sepuluh"
+        android:layout_width="250dp"
+        android:layout_height="230dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/judulsepuluh"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/zakheus" />
+    
+    </RelativeLayout>
+	</ScrollView>
+</RelativeLayout>

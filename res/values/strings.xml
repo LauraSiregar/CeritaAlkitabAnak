@@ -1,0 +1,112 @@
+<resources>
+
+    <string name="app_name">Cerita Alkitab Anak</string>
+    
+    <string name="djudul"> Daniel di Gua Singa</string>
+	    <string name="dsatu">Keberanian dan ketaatan Daniel luar biasa. Ia tidak gentar dan takut untuk beribadah. Daniel tetap beribadah dan berdoa seperti biasanya. Apa yang menjadikan Daniel seperti itu? Tentu saja Tuhan yang memimpinnya.</string>
+		<string name="ddua">Kebiasaan itu sudah ia lakukan sejak lama sekali. Sejak muda ia sudah menetapkan hati sungguh beribadah kepada Tuhan, dan itu terus ia lakukan sampai ia tua. Ternyata iman seperti Daniel memerlukan pelatihan yang lama. Iman dan keteguhan hati Daniel tidak tumbuh dalam satu malam.</string>
+		<string name="dtiga">Karena ibadahnya, Daniel dilemparkan ke gua singa. Tetapi, Tuhan itu setia. Bukan Raja Darius yang menolong Daniel, tetapi Tuhan yang kepada-Nya Daniel berdoa. Tuhan sendiri yang membela hamba-Nya. Melalui peristiwa itu, sekali lagi Daniel menjadi kesaksian yang baik dan membuat banyak orang melihat kemuliaan Tuhan.</string>
+	
+	<string name="EYJudul">Esau dan Yakub</string>
+		<string name="EYsatu">Pada suatu kali Esau pulang berburu dan merasa sangat lelah dan lapar. Ia mencium bau makanan yang lezat yang tengah dimasak Yakub. Tergiur akan wanginya, Esau pun kemudian meminta sedikit kacang merah itu.</string>
+    	<string name="EYdua">Ternyata Yakub menolak memberikannya. Yakub hanya akan memberikan semangkuk kacang merah itu jika Esau menjual hak kesulungannya. “Tetapi kata Yakub: “Juallah dahulu kepadaku hak kesulunganmu.”. Lihatlah betapa mudahnya Esau mengambil keputusan.</string>
+    	<string name="EYtiga">Tanpa pikir panjang ia menjawab “Sebentar lagi aku akan mati, apakah gunanya bagiku hak kesulungan itu?”. Begitu mudah bagi Esau untuk menggadaikan hak kesulungannya, bahkan dengan gampangnya disertai sumpah.</string>
+    	<string name="EYempat">Esau memandang hak kesulungan yang ia miliki sebagai sesuatu yang ringan, rendah atau tak berharga  sehingga rela menukarkannya hanya demi semangkuk kacang merah. Apa yang ditunjukkan oleh Esau adalah bagaimana ia memandang rendah berkat dan anugerah Tuhan. Apa yang dijanjikan Tuhan kepada kakeknya Abraham tidaklah main-main.</string>
+    	<string name="EYlima">Tapi ia rela menggadaikan itu semua demi kesenangan sesaat. “Lalu Yakub memberikan roti dan masakan kacang merah itu kepada Esau, ia makan dan minum, lalu berdiri dan pergi. Demikianlah Esau memandang ringan hak kesulungan itu.”</string>
+    	<string name="EYenam">Esau memilih untuk menyia-nyiakan kasih karunia Tuhan yang berlaku kekal dan dengan mudah menggadaikannya, demi semangkuk kacang merah yang justru tidak lama bisa dirasakan nikmatnya.</string>
+    
+    <string name="KHJudul">Kain dan Habel</string>
+    	<string name="KHsatu">“Setelah beberapa waktu lamanya, maka Kain mempersembahkan sebagian dari hasil tanah itu kepada TUHAN sebagai korban persembahan Habel juga mempersembahkan korban persembahan dari anak sulung kambing dombanya, yakni lemak-lemaknya maka TUHAN mengindahkan Habel dan korban persembahannya itu, tetapi Kain dan korban persembahannya tidak diindahkan-Nya. Lalu hati Kain menjadi sangat panas, dan mukanya muram.</string>
+    	<string name="KHdua">Firman TUHAN kepada Kain, ‘Mengapa hatimu panas dan mukamu muram? Apakah mukamu tidak akan berseri, jika engkau berbuat baik? Tetapi jika engkau tidak berbuat baik, dosa sudah mengintip di depan pintu ia sangat menggoda engkau, tetapi engkau harus berkuasa atasnya.’ Kata Kain kepada Habel, adiknya, ‘Marilah kita pergi ke padang.’ Ketika mereka ada di padang, tiba-tiba Kain memukul Habel, adiknya itu, lalu membunuh dia.</string>
+    	<string name="KHtiga">Firman TUHAN kepada Kain, ‘Di mana Habel, adikmu itu?’. Jawabnya, ‘Aku tidak tahu! Apakah aku penjaga adikku?’. Firman-Nya, ‘Apakah yang telah kauperbuat ini? Darah adikmu itu berteriak kepada-Ku dari tanah. Maka sekarang, terkutuklah engkau, terbuang jauh dari tanah yang mengangakan mulutnya untuk menerima darah adikmu itu dari tanganmu. Apabila engkau mengusahakan tanah itu, maka tanah itu tidak akan memberikan hasil sepenuhnya lagi kepadamu. engkau menjadi seorang pelarian dan pengembara di bumi.</string>
+    	<string name="KHempat">Kata Kain kepada TUHAN, ‘Hukumanku itu lebih besar dari pada yang dapat kutanggung. Engkau menghalau aku sekarang dari tanah ini dan aku akan tersembunyi dari hadapan-Mu, seorang pelarian dan pengembara di bumi maka barangsiapa yang akan bertemu dengan aku, tentulah akan membunuh aku. Firman TUHAN kepadanya, ‘Sekali-kali tidak! Barangsiapa yang membunuh Kain akan dibalaskan kepadanya tujuh kali lipat.’</string>
+    	<string name="KHlima">Kemudian TUHAN menaruh tanda pada Kain, supaya ia jangan dibunuh oleh barangsiapapun yang bertemu dengan dia. Lalu Kain pergi dari hadapan TUHAN dan ia menetap di tanah Nod, di sebelah timur Eden”</string>
+    
+    <string name="MJudul">Musa Membelah Laut</string>
+    	<string name="Msatu">Ketika diberitahukan kepada raja Mesir, bahwa bangsa itu telah lari, maka berubahlah hati Firaun dan pegawai-pegawainya terhadap bangsa itu, dan berkatalah mereka: "Apakah yang telah kita perbuat ini, bahwa kita membiarkan orang Israel pergi dari perbudakan kita?"	
+Kemudian ia memasang keretanya dan membawa rakyatnya serta.
+Ia membawa enam ratus kereta yang terpilih, ya, segala kereta Mesir, masing-masing lengkap dengan perwiranya.
+Demikianlah TUHAN mengeraskan hati Firaun, raja Mesir itu, sehingga ia mengejar orang Israel. Tetapi orang Israel berjalan terus dipimpin oleh tangan yang dinaikkan.
+Adapun orang Mesir, segala kuda dan kereta Firaun, orang-orang berkuda dan pasukannya, mengejar mereka dan mencapai mereka pada waktu mereka berkemah di tepi laut, dekat Pi-Hahirot di depan Baal-Zefon.
+Ketika Firaun telah dekat, orang Israel menoleh, maka tampaklah orang Mesir bergerak menyusul mereka. Lalu sangat ketakutanlah orang Israel dan mereka berseru-seru kepada TUHAN,
+    	</string>
+    	<string name="Mdua">dan mereka berkata kepada Musa: "Apakah karena tidak ada kuburan di Mesir, maka engkau membawa kami untuk mati di padang gurun ini? Apakah yang kauperbuat ini terhadap kami dengan membawa kami keluar dari Mesir?
+Bukankah ini telah kami katakan kepadamu di Mesir: Janganlah mengganggu kami dan biarlah kami bekerja pada orang Mesir. Sebab lebih baik bagi kami untuk bekerja pada orang Mesir dari pada mati di padang gurun ini."
+Tetapi berkatalah Musa kepada bangsa itu: "Janganlah takut, berdirilah tetap dan lihatlah keselamatan dari TUHAN, yang akan diberikan-Nya hari ini kepadamu; sebab orang Mesir yang kamu lihat hari ini, tidak akan kamu lihat lagi untuk selama-lamanya.
+TUHAN akan berperang untuk kamu, dan kamu akan diam saja."
+Berfirmanlah TUHAN kepada Musa: "Mengapakah engkau berseru-seru demikian kepada-Ku? Katakanlah kepada orang Israel, supaya mereka berangkat.
+    	</string>
+    	<string name="Mtiga">Dan engkau, angkatlah tongkatmu dan ulurkanlah tanganmu ke atas laut dan belahlah airnya, sehingga orang Israel akan berjalan dari tengah-tengah laut di tempat kering.
+Tetapi sungguh Aku akan mengeraskan hati orang Mesir, sehingga mereka menyusul orang Israel, dan terhadap Firaun dan seluruh pasukannya, keretanya dan orangnya yang berkuda, Aku akan menyatakan kemuliaan-Ku.
+Maka orang Mesir akan mengetahui, bahwa Akulah TUHAN, apabila Aku memperlihatkan kemuliaan-Ku terhadap Firaun, keretanya dan orangnya yang berkuda."
+Kemudian bergeraklah Malaikat Allah, yang tadinya berjalan di depan tentara Israel, lalu berjalan di belakang mereka; dan tiang awan itu bergerak dari depan mereka, lalu berdiri di belakang mereka.    
+    	</string>
+    	<string name="Mempat">Demikianlah tiang itu berdiri di antara tentara orang Mesir dan tentara orang Israel; dan oleh karena awan itu menimbulkan kegelapan, maka malam itu lewat, sehingga yang satu tidak dapat mendekati yang lain, semalam-malaman itu.
+Lalu Musa mengulurkan tangannya ke atas laut, dan semalam-malaman itu TUHAN menguakkan air laut dengan perantaraan angin timur yang keras, membuat laut itu menjadi tanah kering; maka terbelahlah air itu.
+Demikianlah orang Israel berjalan dari tengah-tengah laut di tempat kering; sedang di kiri dan di kanan mereka air itu sebagai tembok bagi mereka.
+Orang Mesir mengejar dan menyusul mereka--segala kuda Firaun, keretanya dan orangnya yang berkuda--sampai ke tengah-tengah laut.
+Dan pada waktu jaga pagi, TUHAN yang di dalam tiang api dan awan itu memandang kepada tentara orang Mesir, lalu dikacaukan-Nya tentara orang Mesir itu.
+Ia membuat roda keretanya berjalan miring dan maju dengan berat, sehingga orang Mesir berkata: "Marilah kita lari meninggalkan orang Israel, sebab Tuhanlah yang berperang untuk mereka melawan Mesir."
+    	</string>
+		<string name="Mlima">Berfirmanlah TUHAN kepada Musa: "Ulurkanlah tanganmu ke atas laut, supaya air berbalik meliputi orang Mesir, meliputi kereta mereka dan orang mereka yang berkuda."
+Musa mengulurkan tangannya ke atas laut, maka menjelang pagi berbaliklah air laut ke tempatnya, sedang orang Mesir lari menuju air itu; demikianlah TUHAN mencampakkan orang Mesir ke tengah-tengah laut.
+Berbaliklah segala air itu, lalu menutupi kereta dan orang berkuda dari seluruh pasukan Firaun, yang telah menyusul orang Israel itu ke laut; seorangpun tidak ada yang tinggal dari mereka.
+		</string>
+    	<string name="Menam">Tetapi orang Israel berjalan di tempat kering dari tengah-tengah laut, sedang di kiri dan di kanan mereka air itu sebagai tembok bagi mereka.
+Demikianlah pada hari itu TUHAN menyelamatkan orang Israel dari tangan orang Mesir. Dan orang Israel melihat orang Mesir mati terhantar di pantai laut.
+Ketika dilihat oleh orang Israel, betapa besarnya perbuatan yang dilakukan TUHAN terhadap orang Mesir, maka takutlah bangsa itu kepada TUHAN dan mereka percaya kepada TUHAN dan kepada Musa, hamba-Nya itu.
+    	</string>
+    	
+    	<string name="Zjudul">Zakheus</string>
+    		<string name="Zsatu">Sebelum lewat di kota Yerikho, Yesus menyembuhkan orang buta di tengah jalan. Maka orang-orang banyak mengerumuni Dia, demikian juga Zakheus.</string>
+    		<string name="Zdua">Namun karena badannya pendek, maka ia memanjat pohon ara untuk dapat melihat Yesus dengan jelas. Yesus mengetahui maksud hati Zakheus, maka ketika Ia lewat, Dia memandang Zakheus dengan penuh kasih.</string>
+    		<string name="Ztiga">Dia memanggil nama “Zakheus”, dan bahkan mau tinggal dan makan bersama dengannya.</string>
+    	
+    	<string name="Pjudul">Kisah Penciptaan</string>
+    		<string name="Psatu">Pada mulanya, Tuhan menciptakan langit dan bumi. Bumi masih kosong, tidak ada satu makluk pun. Gelap gulita menutupi samudera raya. lalu Berfirmanlah Tuhan:  "jadilah terang" maka terang itu jadi. Dan, Tuhan memisahkan terang itu dari gelap. Tuhan menamai terang itu siang dan gelap itu malam. Itulah hari Pertama.</string>
+    		<string name="Pdua">Berfirmanlah Tuhan : " jadilah cakrawala di tengah segala air untuk memisahkan air dari air." maka Tuhan menjadikan cakrawala dan Ia memisahkan air yang ada di bawah cakrawala itu dari air yang ada di atasnya. Lalu Tuhan menamai cakrawala itu langit.Itulah hari kedua</string>
+    		<string name="Ptiga">Berfirmanlah Tuhan : "hendaklah segala air yang di bawah langit berkumpul pada satu tempat, sehingga kelihatan yang kering." Dan, jadilah demikian. Tuhan menamai yang kering itu darat dan kumpulan air itu laut. Kemudian Tuhan bersabda lagi: "Hendaklah tanah mengeluarkan segala macam tumbuh-tumbuhan yaitu jenis tumbuhan yang menghasilkan biji-bijian dan yang menghasilkan buah-buahan." maka tanah itu menumbuhkan tunas- tunas muda. Tuhan melihat semuanya itu baik. Itulah hari ketiga.</string>
+    		<string name="Pempat">Berfirmanlah Tuhan "Jadilah benda- benda penerang pada cakrawala untuk memisahkan siang dari malam." Dan, jadilah demikian. Penerang untuk siang namanya matahari (gambar matahari) untuk menyinari bumi  dan untuk menguasai malam namanya bulan dan bintang- bintang. Itulah hari keempat.</string>
+    		<string name="Plima">Berfirmanlah Tuhan : "Hendaklah dalam air berkeriapan makluk yang hidup (ikan) dan hendaklah burung beterbangan di atas bumi melintasi cakrawala." Maka Tuhan menciptakan semua jenis binatang yang ada di laut baik besar maupun kecil dan segala jenis burung yang bersayap. Selain itu Tuhan menciptakan segala jenis bintang. Lalu Allah memberkati semuanya itu dengan berkata " berkembang biaklah dan bertambah banyak lah serta penuhilah air dalam laut dan hendaklah burung- burung di bumi bertambah banyak. Jadilah demikian. Itulah hari Kelima.</string>
+    		<string name="Penam">Hari keenam Tuhan berfirman: Baiklah kita membuat manusia yang akan menjadi seperti kita dan menyerupai kita. Mereka berkuasa atas ikan-ikan, burung-burung dan semua binatang, baik jinak maupun liar, baik besar maupun kecil. Maka jadilah demikian. Tuhan menjadikan manusia laki-laki dan perempuan Kemudian, Tuhan memberkati mereka" beranak cuculah yang bertambah banyak penuhilah muka bumi." Kamu Kutugaskan mengurus ikan-ikan, burung-burung, semua bintang termasuk bintang liar dan melestarikan tumbuh-tumbuhan. Untuk makananmu Kuberikan segala jenis tumbuhan yang menghasilkan biji dan buah-buahan.</string>
+    		<string name="Ptujuh">Hari ketujuh Allah beristirahat dan memberkati semua ciptaanNya supaya dapat hidup bahagia.</string>
+    		
+    	<string name="Yjudul">Yerikho</string>	
+    		<string name="Ysatu">Bangsa Israel berkemah di Kanaan dekat sebuah kota yang disebut Yerikho. Kemudian Tuhan berbicara kepadaYosua," Aku telah menyerahkan kota Yerkho ke dalam tanganmu. Kelilingilah kota itu beserta dengan prajurit satu kali setiap hari selama enam hari.</string>
+    		<string name="Ydua">Dan di depan Tabut Perjanjian tujuh orang imam membawa sangkakala (terompet). Pada hari yang ke tujuh, kelilingilah kota itu sebanyak tujuh kali dan para imam meniup sangkakala.</string>
+    		<string name="Ytiga">Kemudian seluruh bangsa haruslah bersorak dengan suara yang keras, maka tembaok kota itu akan runtuh dan semua orang haruslah langsung masuk ke kota itu."</string>
+    		<string name="Yempat">Lalu Yosua dan bangsa Israel melakukan apa yang diperintahkna Tuhan. Tembok kota Yerikho runtuh dan bangsa Israel menaklukkan kota itu.</string>
+    		<string name="Ylima">Tuhan melarang orang-orang Israel mnegambil barang apapun untuk mereka sendiri, tetapi seseorang yang bernama Akhan tidak menaati Tuhan.</string>
+    		
+    	<string name="Pejudul">10 Perintah Tuhan</string>	
+    		<string name="Pesatu">Dua belas anak Yakub dan keturunannya sekarang disebut umat Israel. Mereka sudah menjadi bangsa yang besar dan raja mereka ialah Tuhan. Mereka terus berjalan dan akhirnya tiba di gunung Sinai. Tuhan memimpin Musa sampai umat Israel dapat berbakti di gunung itu.</string>
+    		<string name="Pedua">Tuhan memanggil Musa agar datang ke puncak Gunung Sinai untuk bercakap-cakap. Di situ Tuhan mengulangi rencana-Nya untuk membawa mereka keluar dari Mesir dengan kuasa-Nya yang besar dan dengan mujizat. Tuhan berkata kepada Musa, "Sekarang kalau kamu taat kepada-ku dan setia kepada perjanjian-Ku, kamu akan Kujadikan umat- Ku sendiri.</string>
+    		<string name="Petiga">Musa kembali kepada umatnya dan menceritakan semua yang dikatakan Tuhan kepadanya. Orang banyak itu berkata, "Kami mau melakukan segala sesuatu yang dikatakan Tuhan. Lalu Tuhan menyuruh Musa dan bangsanya bersiap-siap. Pada hari ketiga, Tuhan akan turun ke Gunung Sinai dan berbicara kepada umat Israel. Pada hari itu terjadi guruh dan petir. Awan yang tebal muncul di atas gunung dan terdengarlah bunyi terompet yang sangat keras. Semua orang di situ gemetar ketakutan.</string>
+    		<string name="Peempat">Musa membawa mereka keluar, agar dia dapat bertemu dengan Tuhan. Mereka tidak boleh mendaki gunung itu. Kalau ada orang yang terlalu dekat, seketika itu juga dia akan mati. Hanya Musa saja yang boleh mendaki gunung itu. Lalu Tuhan berbicara, Dia memberi "Sepuluh Perintah", dikenal juga sebagai "Sepuluh Hukum Tuhan"</string>
+    		<string name="Pelima">1. Jangan menyembah ilah-ilah lain; sembahlah Aku saja. \n
+2. Jangan membuat patung. \n
+3. Jangan menyebut nama Allah dengan sembarangan.\n
+4. Hormatilah hari Sabat (saat ini hari Minggu). \n
+5. Hormatilah ayah dan ibumu. \n
+6. Jangan membunuh. \n
+7. Jangan berzinah. \n
+8. Jangan mencuri.\n
+9. Jangan berbohong.\n 
+10. Jangan iri hati.</string>
+    	
+    	<string name="YuJudul">Yunus di Perut Ikan</string>
+    		<string name="Yusatu">Tuhan menyuruh Yunus pergi ke kota Niniwe, ibukota kerajaan Asyur. Tetapi Yunus tidak mau pergi ke kota itu untuk menyampaikan pesan Tuhan, karena ia yakin bahwa kalau orang Niniwe berhenti berbuat dosa, Tuhan tidak akan menjalankan rencana-Nya untuk menghancurkan kota itu. Yunus melarikan diri dengan menumpang kapal yang menuju ke Tarsis. Namun, di tengah laut, kapal itu ditempa badai besar. Untuk menyelamatkan seisi kapal, Yunus minta dilemparkan ke laut. Begitu masuk ke laut, Tuhan mengirim seekor ikan besar menelan Yunus. Selama di perut ikan, Yunus berdoa kepada Tuhan. Setelah 3 hari dan 3 malam di perut ikan, Yunus dimuntahkan ke luar.</string>
+    		<string name="Yudua">Sekali lagi Tuhan menyuruh Yunus pergi ke kota Niniwe. Kali ini Yunus menaati perintah Tuhan. Bersiaplah Yunus, lalu pergi ke Niniwe, sesuai dengan firman Tuhan. Niniwe adalah sebuah kota yang mengagumkan besarnya, tiga hari perjalanan luasnya.Mulailah Yunus masuk ke dalam kota itu sehari perjalanan jauhnya, lalu berseru: "Empat puluh hari lagi, maka Niniwe akan ditunggang balikkan."Orang Niniwe percaya kepada Tuhan, lalu mereka mengumumkan puasa dan mereka, baik orang dewasa maupun anak-anak, mengenakan kain kabung.Setelah sampai kabar itu kepada raja kota Niniwe, turunlah ia dari singgasananya, ditanggalkannya jubahnya, diselubungkannya kain kabung, lalu duduklah ia di abu. Lalu atas perintah raja dan para pembesarnya orang memaklumkan dan mengatakan di Niniwe demikian: "Manusia dan ternak, lembu sapi dan kambing domba tidak boleh makan apa-apa, tidak boleh makan rumput dan tidak boleh minum air.</string>
+    		<string name="Yutiga">Haruslah semuanya, manusia dan ternak, berselubung kain kabung dan berseru dengan keras kepada Tuhan serta haruslah masing-masing berbalik dari tingkah lakunya yang jahat dan dari kekerasan yang dilakukannya. Siapa tahu, mungkin Tuhan akan berbalik dan menyesal serta berpaling dari murka-Nya yang bernyala-nyala itu, sehingga kita tidak binasa." Ketika Tuhan melihat perbuatan mereka itu, yakni bagaimana mereka berbalik dari tingkah lakunya yang jahat, maka menyesallah Tuhan karena malapetaka yang telah dirancangkan-Nya terhadap mereka, dan Iapun tidak jadi melakukannya."Tetapi kemudian ia marah, karena Niniwe tidak jadi dihancurkan.</string>
+    	
+    	<string name="Sjudul">Tuhan Yesus Mati Bagiku</string>	
+    		<string name="Ssatu">Para ahli taurat dan orang-orang Romawi pada saat itu terancam. Sebab sudah tersiar kabar bahwa Ia yang akan menjadi Raja. Tuhan Yesus tahu bahwa Ia akan mati. Oleh sebab itu, Ia mengadakan perjamuan makan istimewa dan membasuh kaki para murid-Nya untuk terakhir kali.</string>
+    		<string name="Sdua">Tuhan Yesus mengambil secawan anggur dan mengucap syukur. Lalu Ia juga mengambil sepotong roti dan membagikannya kepada murid-murid-Nya sebagai peringatan untuk melakukan apa yang Tuhan Yesus ajarkan selama di bumi. Para murid tidak mengerti maksud Yesus.</string>
+    		<string name="Stiga">Tuhan tahu ada satu murid, yang akan menjual dia. lalu Yesus ditangkap di taman Getsemani. kemudian mereka hendak menyalibkan nya.</string>
+    		<string name="Sempat">Tuhan Yesus dipukul, diberikan mahkota duri dikepala, sambil berjalan menuju Golgota. Tak hanya itu saja, Tuhan Yesus memikul salib yang begitu berat. </string>
+    		<string name="Slima">Kegelapan menyelimuti bumi, tepat jam 3 sore, Tuhan Yesus berseru, lalu Ia mati. Maka terbukalah bait Tuhan. Tanda bahwa Ia adalah Anak Tuhan.</string>
+    		
+    		
+    		
+    	
+</resources>

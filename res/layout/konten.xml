@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#DDDDDD" >
+    
+    <ScrollView 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+    <RelativeLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        
+        <TextView 
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:id="@+id/judul"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:gravity="center_horizontal"
+            android:textColor="#000000"
+            android:typeface="serif"
+            android:layout_marginTop="15dp"/>
+        
+       
+        <ImageView
+    	android:id="@+id/gambar"
+   	 	android:layout_width="fill_parent"
+   		android:layout_height="200dp"
+        android:layout_below="@id/judul"
+   		android:layout_marginTop="15dp"/>
+       
+        <TextView 
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:layout_below="@id/gambar"
+            android:layout_marginTop="10dp"
+            android:id="@+id/satu"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:textSize="15dp"
+            android:textColor="#000000"/>
+        
+        <TextView 
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:layout_below="@id/satu"
+            android:layout_marginTop="10dp"
+            android:id="@+id/dua"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:textSize="15dp"
+            android:textColor="#000000"/>
+        
+        <TextView 
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:layout_below="@id/dua"
+            android:layout_marginTop="10dp"
+            android:id="@+id/tiga"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:textSize="15dp"
+            android:textColor="#000000"/>
+        
+         <TextView 
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:layout_below="@id/tiga"
+            android:layout_marginTop="10dp"
+            android:id="@+id/empat"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:textSize="15dp"
+            android:textColor="#000000"/>
+        
+        <TextView 
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:layout_below="@id/empat"
+            android:layout_marginTop="10dp"
+            android:id="@+id/lima"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:textSize="15dp"
+            android:textColor="#000000"/>
+        
+        <TextView 
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:layout_below="@id/lima"
+            android:layout_marginTop="10dp"
+            android:id="@+id/enam"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:textSize="15dp"
+            android:textColor="#000000"/>
+        
+        <TextView 
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:layout_below="@id/enam"
+            android:layout_marginTop="10dp"
+            android:id="@+id/tujuh"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:textSize="15dp"
+            android:textColor="#000000"/>
+        
+        <TextView 
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:layout_below="@id/tujuh"
+            android:layout_marginTop="10dp"
+            android:id="@+id/delapan"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:textSize="15dp"
+            android:textColor="#000000"/>
+        
+        
+        <Button
+         android:id="@+id/video"
+         android:layout_width="100dp"
+         android:layout_height="30dp"
+         android:background="@drawable/button"
+         android:text="Video"
+         android:layout_below="@+id/tujuh"
+         android:layout_alignParentRight="true"
+         android:layout_marginRight="20dp"
+         android:layout_marginTop="15dp"
+         android:textColor="#000000"
+         android:layout_marginBottom="20dp"/>
+        
+        
+    </RelativeLayout>
+    </ScrollView>
+
+</LinearLayout>

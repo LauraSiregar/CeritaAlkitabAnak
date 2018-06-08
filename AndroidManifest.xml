@@ -1,0 +1,42 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.alkitab"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="21" />
+
+    <application android:icon="@drawable/ic_launcher" android:label="@string/app_name">
+        <activity android:name="com.alkitab.MainActivity"
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity android:name="DanielActivity" android:label="Daniel"></activity>
+        <activity android:name="EsauYakubActivity" android:label="Esau dan Yakub"></activity>
+        <activity android:name="KainHabelActivity" android:label="Kain dan Habel"></activity>
+        <activity android:name="MusaActivity" android:label="Musa"></activity>
+        <activity android:name="PenciptaanActivity" android:label="Penciptaan"></activity>
+        <activity android:name="PerintahActivity" android:label="10 Perintah Tuhan"></activity>
+        <activity android:name="YerikhoActivity" android:label="Yerikho"></activity>
+        <activity android:name="SalibActivity" android:label="Yesus Disalibkan"></activity>
+        <activity android:name="YunusActivity" android:label="Yunus"></activity>
+        <activity android:name="ZakheusActivity" android:label="Zakheus"></activity>
+        
+        <activity android:name="VidDanielActivity" android:label="Video Daniel"></activity>
+        <activity android:name="VidEsauYakubActivity" android:label="Video Esau dan Yakub"></activity>
+        <activity android:name="VidKainHabelActivity" android:label="Video Kain dan Habel"></activity>
+        <activity android:name="VidMusaActivity" android:label="Video Musa"></activity>
+        <activity android:name="VidPenciptaanActivity" android:label="Video Penciptaan"></activity>
+        <activity android:name="VidPerintahActivity" android:label="Video 10 Perintah Tuhan"></activity>
+        <activity android:name="VidYerikhoActivity" android:label="Video Tembok Yerikho"></activity>
+        <activity android:name="VidSalibActivity" android:label="Video Tuhan Yesus Disalib"></activity>
+        <activity android:name="VidYunusActivity" android:label="Video Yunus"></activity>
+        <activity android:name="VidZakheusActivity" android:label="Video Zakheus"></activity>
+        
+     </application>
+</manifest>
